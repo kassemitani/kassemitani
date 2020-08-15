@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassemitani" alt="kassemitani" /> </p>
 
+- 🔭 I’m currently working with **Swift, iOS, Android, Java, Objective-C**
+
 - 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://kassemitani.com/](https://kassemitani.com/)
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **Kassem.itani@gmail.com**
 
-- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassemitani&layout=compact&hide=html" alt="kassemitani" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kassemitani&show_icons=true" alt="kassemitani" /></p>
 
