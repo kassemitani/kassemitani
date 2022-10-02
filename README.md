@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Kassem Itani 👋👨🏻‍💻</h1>
-<h3 align="center">A passionate Mobile App Developer from Lebanon</h3>
+<h3 align="center">A passionate Mobile App Developer based in Estonia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassemitani" alt="kassemitani" /> </p>
 
-- 🔭 I’m currently working with **React-Native Typescript, Swift, iOS, Android, Java, Objective-C**
+- 🔭 I’m love working with **React-Native Typescript, Swift, iOS, Android, Java, Objective-C**
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
 - 👨‍💻 All of my projects are available at [https://kassemitani.com/](https://kassemitani.com/)
 
-- 💬 Ask me about **React-Native, Typescript, Swift, IOS, Java, Android**
+- 💬 Ask me about **React-Native, Typescript, Swift, iOS, Java, Android**
 
 - 📫 How to reach me **Kassem.itani@gmail.com**
 
