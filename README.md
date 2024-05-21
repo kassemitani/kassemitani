@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kassem Itani 👋👨🏻‍💻</h1>
-<h3 align="center">A passionate Mobile App Developer based in Estonia</h3>
+<h3 align="center">Mobile App Engineer</h3>
 
 - 🔭 I work with **React-Native Typescript, Swift, iOS, Android, Java, Objective-C**
 
